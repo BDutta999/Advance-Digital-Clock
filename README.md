@@ -2,7 +2,7 @@
 
 A modern, responsive digital clock built with React. Includes a core clock plus world clock, alarms, stopwatch, and timer with a glass-morphism UI.
 
-[Live Demo (replace with your URL)](https://your-username-digital-clock.vercel.app)
+[Live Demo (replace with your URL)](https://advance-digital-clock-xi.vercel.app/)
 
 Badges
 - React 18.2.0
