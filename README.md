@@ -31,6 +31,6 @@ Prerequisites
 
 Clone and install
 ```bash
-git clone https://github.com/your-username/digital-clock.git
+git clone git clone https://github.com/BDutta999/Advance-Digital-Clock.git
 cd digital-clock
 npm install
